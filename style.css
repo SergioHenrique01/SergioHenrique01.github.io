@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to top right, #0b0d14,#121827, #272d3f, #3A4255, #414761 95%);
+    background-attachment: fixed;
+    font-family:Arial, Helvetica, sans-serif
+    
+    
+}
+
+main{
+    background-color: white;
+    border-radius: 20px;
+    padding: 30px;
+    width: 500px;
+    margin: auto;
+    
+}
+h1{
+    color: #2E84A6;
+    text-align: center;
+    text-shadow: 1px 1px 0px black;
+}
